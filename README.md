@@ -11,3 +11,14 @@ Traceback (most recent call last):
   File "/home/nano-termo/ai-thermometer/rgb/rgb_thread.py", line 7, in <module>
     from .camera import make_imx219_capture
 ImportError: cannot import name 'make_imx219_capture'
+
+
+
+
+
+
+
+
+
+
+from .camera import make_imx219_capture
